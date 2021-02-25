@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="姓名\n學號"
+        android:text="高健文\n40717001"
         android:textColor="#FFF"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
